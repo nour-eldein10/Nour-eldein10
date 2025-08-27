@@ -27,5 +27,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nour-eldein10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nour-eldein10)](https://git.io/streak-stats)
+
 
 
