@@ -4,10 +4,12 @@ for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Flutter   8 hrs 33 mins   ██████████████████████▓░░   90.67 %
-Python   37 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.6  %
-
-
+TypeScript   8 hrs 33 mins   ██████████████████████▓░░   90.67 %
+Markdown     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+CSS          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
 
 <!--END_SECTION:waka-->
 
@@ -17,10 +19,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  5 Karma Points           
+🏆  8,004 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 2 tasks so far           
-⏳  Longest streak is 0 days
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
 
