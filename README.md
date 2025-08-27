@@ -5,7 +5,9 @@ for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 
 ```txt
 Flutter   8 hrs 33 mins   ██████████████████████▓░░   90.67 %
-Python   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Python   37 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.6  %
+
+
 
 <!--END_SECTION:waka-->
 
