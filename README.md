@@ -1,14 +1,14 @@
-<img align="center" src="https://github.com/nour-eldein10/assets-gifs/blob/main/nour%20eldein1.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<p align="center"> <img  src="https://github.com/nour-eldein10/assets-gifs/blob/main/nour%20eldein1.gif?raw=true" alt="Hello Coders" width="60%"/> <br> </p>
 
 
 
 <h1 align="center">Hi 👋, I'm Nour Eldein</h1>
 <h3 align="center">A passionate innovative Mobile developer from Egypt</h3>
-
+<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nour-eldein10&label=Profile%20views&color=0e75b6&style=flat" alt="nour-eldein10" /> </p>
 
 
-- 🔭 I’m currently working on **ProgressTracker App**
+- 🔭 I’m currently working on **ProgressTracker App** 
 
 - 🌱 I’m currently learning **payment gatways (stripe),Ai Integration with app**
 
