@@ -1,4 +1,4 @@
-put under the connect with me <p align="center"> <img  src="https://github.com/nour-eldein10/assets-gifs/blob/main/nour%20eldein1.gif?raw=true" alt="Hello Coders" width="60%"/> <br> </p>
+ <p align="center"> <img  src="https://github.com/nour-eldein10/assets-gifs/blob/main/nour%20eldein1.gif?raw=true" alt="Hello Coders" width="60%"/> <br> </p>
 
 
 
