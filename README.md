@@ -8,19 +8,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nour-eldein10&label=Profile%20views&color=0e75b6&style=flat" alt="nour-eldein10" /> </p>
 
 
-- 🔭 I’m currently working on **ProgressTracker App** 
+- 🔭 I’m currently working on **Refqa App(disabilities aiding)** 
 
 - 🌱 I’m currently learning **payment gatways (stripe),Ai Integration with app**
 
 - 👯 I’m looking to collaborate on **any innovative apps**
 
-- 🤝 I’m looking for help with **Nobody Rightnow**
+- 🤝 I’m looking for help with **Backend developer**
 
 - 👨‍💻 All of my projects are available at [Mysite (underdeveloping)](https://noureldein1100.00wixstudio.com/myportfolio)
 
 - 📝 I regularly write articles on [medium...](medium...)
 
-- 💬 Ask me about **Flutter,Flutterflow,Figma,React Native**
+- 💬 Ask me about **Flutter,Flutterflow,Figma,React Native or any creative app ideas**
 
 - 📫 How to reach me **Noureldein1100@gmail.com**
 
